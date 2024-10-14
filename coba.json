@@ -1,0 +1,12 @@
+{
+    "program" : {
+        "nama": "Zeni Nur Hasanah",
+        "umur": 18,
+        "sekolah": "SMKN 1 Cimahi",
+        "status": "pelajar",
+        "pembimbing": {
+            "pembimbing1": "Bu Maya",
+            "pembimbing2": "pa anton"
+        }
+    }
+}
